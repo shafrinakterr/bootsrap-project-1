@@ -193,4 +193,9 @@ footer p{
     .testimonial_container {
         text-align: center;
     }
+    footer {
+        background: #282531;
+        padding: 10px;
+        color: #ffffff ;
+    }
 }
