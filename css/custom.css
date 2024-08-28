@@ -156,6 +156,10 @@ footer p{
 
 
 @media (max-width: 991px) {
+
+    .logo{
+        width: 100px;
+    }
     .books_container{
         padding: 30px;
     }
