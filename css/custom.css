@@ -115,6 +115,15 @@ nav a:hover {
     height: 24px;
 }
 
+svg{
+    width: 24px;
+    
+}
+.navbar-toggler::after{
+    border: none;
+    outline: 0;
+}
+
 /* testimonial */
 .testimonial_container {}
 
